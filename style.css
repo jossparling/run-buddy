@@ -9,6 +9,7 @@ body {
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
 }
+
 /* apply styles to <header> */
 header {
     padding: 20px 35px;
@@ -71,7 +72,6 @@ section {
 }
 
 /* Hero Style Start */
-
 .hero {
     background-image: url(./hero-bg.jpeg);
     height: 600px;
@@ -79,10 +79,11 @@ section {
     background-position: center;
     position: relative;
 }
+/* Hero Style End */
 
 .hero-form {
     background-color: #fce138;
-    border: solid 3px #024e76;
+    border: 3px solid #024e76;
     padding: 20px;
     width: 500px;
     color: #024e76;
@@ -122,7 +123,7 @@ section {
     font-size: 16px;
 }
 
-/* Hero Style End */
+
 
 
 
